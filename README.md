@@ -1,2 +1,2 @@
 # super-winner 
-hi. am Tylon am new to prgramming but willing to learn everything.
+hi. am Tylon am new to programming but willing to learn everything.
